@@ -1,0 +1,4 @@
+To run:
+python main.py
+
+V 0.9
